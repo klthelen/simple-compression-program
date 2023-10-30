@@ -78,23 +78,23 @@ You can remove all compiled files with: <br/>
 
 # Compression ratio comparison
 
-Uncompressed Size / Our Compression Compressed Size
-bitsy.c : 8152/7383     = 1.104
-czy     : 22056/13511   = 1.632
-czy.c   : 9083/7679     = 1.183
-dzy     : 22056/12648   = 1.744
-dzy.c   : 5763/4736     = 1.217
+**Uncompressed Size / Our Compression Compressed Size**<br/>
+bitsy.c&nbsp;: 8152/7383     = 1.104<br/>
+czy&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;: 22056/13511   = 1.632<br/>
+czy.c&nbsp;&nbsp;&nbsp;&nbsp;: 9083/7679     = 1.183<br/>
+dzy&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;: 22056/12648   = 1.744<br/>
+dzy.c&nbsp;&nbsp;&nbsp;: 5763/4736     = 1.217<br/>
 
-Uncompressed Size / GZip Compression
-bitsy.c : 8152/2558     = 3.187
-czy     : 22056/5108    = 4.318
-czy.c   : 9083/2409     = 3.770
-dzy     : 22056/4740    = 4.653
-dzy.c   : 5763/1969     = 2.927
+**Uncompressed Size / GZip Compression**<br/>
+bitsy.c&nbsp;: 8152/2558     = 3.187<br/>
+czy&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;: 22056/5108    = 4.318<br/>
+czy.c&nbsp;&nbsp;&nbsp;&nbsp;: 9083/2409     = 3.770<br/>
+dzy&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;: 22056/4740    = 4.653<br/>
+dzy.c&nbsp;&nbsp;&nbsp;: 5763/1969     = 2.927<br/>
 
-Our Compression Compressed Size / GZip Compression
-bitsy.c : 7383/2558     = 2.886
-czy     : 13511/5108    = 2.645
-czy.c   : 7679/2409     = 3.188
-dzy     : 12648/4740    = 2.668
-dzy.c   : 4736/1969     = 2.405
+**Our Compression Compressed Size / GZip Compression**
+bitsy.c&nbsp;: 7383/2558     = 2.886<br/>
+czy&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;: 13511/5108    = 2.645<br/>
+czy.c&nbsp;&nbsp;&nbsp;&nbsp;: 7679/2409     = 3.188<br/>
+dzy&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;: 12648/4740    = 2.668<br/>
+dzy.c&nbsp;&nbsp;&nbsp;: 4736/1969     = 2.405<br/>
